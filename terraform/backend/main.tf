@@ -1,5 +1,5 @@
 locals {
-  name_prefix = "${var.project_name}-${var.environment}"
+  name_prefix = "${var.fucking_project_nameeeeeee}-${var.env}"
 }
 
 resource "digitalocean_database_cluster" "postgres" {
